@@ -1,0 +1,4 @@
+jeg
+===
+
+Joomla Extension Generator
